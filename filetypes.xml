@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="dust" type="Dust" />
+      <mapping ext="jstyle" type="JavaScript" />
+      <mapping ext="mdown" type="Markdown" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
